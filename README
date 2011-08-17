@@ -1,0 +1,3 @@
+This is an Android app to count how many days (or hours, minutes, seconds, whatever) a Univeristy of Waterloo Engineering student has until their Iron Ring Stag. It was a good programming exercise to develop my Android-fu a little better, hopefully you can use it. Not a Waterloo engineering student? Might not come much in handy, sorry...I might release it as a generic countdown app, who knows.
+
+To install, follow the instructions for setting up a project with Eclipse in an Android dev environment - Google "Eclipse ADT" to get you started. Then, import as a project and run it.
