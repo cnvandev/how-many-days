@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/set_irs"
+          android:icon="@android:drawable/ic_menu_month"
+          android:title="@string/set_irs" />
+    <item android:id="@+id/set_alarms"
+          android:icon="@android:drawable/ic_menu_today"
+          android:title="@string/set_alarms" />
+</menu>
